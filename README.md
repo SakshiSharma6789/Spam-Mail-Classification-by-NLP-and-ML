@@ -27,7 +27,7 @@ The project includes:
 
 1. **Clone the Repository**:
    ```bash
-   git clonehttps://github.com/SakshiSharma6789/Spam-Mail-Classification-by-NLP-and-MLNLP-amd-ML.git
+   git clonehttps://github.com/SakshiSharma6789/Spam-Mail-Classification-by-NLP-and-ML.git
    cd Spam-Mail-Classification-by-NLP-and-ML
    
 2. **Install the Dependencies**:
